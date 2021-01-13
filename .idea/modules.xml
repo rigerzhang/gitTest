@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_book_static/01_book_static.iml" filepath="$PROJECT_DIR$/01_book_static/01_book_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_xml/02_xml.iml" filepath="$PROJECT_DIR$/02_xml/02_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Servlet/03_Servlet.iml" filepath="$PROJECT_DIR$/03_Servlet/03_Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_jsp/04_jsp.iml" filepath="$PROJECT_DIR$/04_jsp/04_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyTest.iml" filepath="$PROJECT_DIR$/StudyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloGit/helloGit.iml" filepath="$PROJECT_DIR$/helloGit/helloGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/maventest.iml" filepath="$PROJECT_DIR$/maventest/maventest.iml" />
+    </modules>
+  </component>
+</project>

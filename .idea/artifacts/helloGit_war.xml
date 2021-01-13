@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="helloGit:war">
+    <output-path>$PROJECT_DIR$/helloGit/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>helloGit</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="helloGit.war">
+      <element id="artifact" artifact-name="helloGit:war exploded" />
+    </root>
+  </artifact>
+</component>
